@@ -1,6 +1,6 @@
 # IPL'2024-Dashboard
 
-### Dashboard Link : 
+### Dashboard Link :-
 
 ## Problem Statement
 
